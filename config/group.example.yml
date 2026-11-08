@@ -1,0 +1,17 @@
+# One file per group. Nothing about a specific group lives in the code.
+group:
+  name: "AWS User Group Roma"        # shown in the header and in page titles
+  slug: "roma"
+  meetup_url: "https://www.meetup.com/amazon-web-services-rome/"
+  contact_email: "organizers@example.org"
+site:
+  languages: ["it", "en"]
+  default_language: "it"
+  accent_colour: "#0b5c6b"
+photos:
+  default_license: "all-rights-reserved"   # or "cc-by-nc-4.0", decided per group
+  takedown_review_days: 7
+  retention_days: 1095                     # how long unpublished originals are kept
+  consent_text:
+    it: "Le foto di questo evento possono essere pubblicate. Se compari in una foto e vuoi che sia rimossa, usa il pulsante Richiedi rimozione."
+    en: "Photos from this event may be published. If you appear in a photo and want it removed, use the Request removal button."
